@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\bin\Debug\netcoreapp3.1\Task.Encapsulation.exe
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\bin\Debug\netcoreapp3.1\Task.Encapsulation.deps.json
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\bin\Debug\netcoreapp3.1\Task.Encapsulation.runtimeconfig.json
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\bin\Debug\netcoreapp3.1\Task.Encapsulation.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\bin\Debug\netcoreapp3.1\Task.Encapsulation.dll
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\bin\Debug\netcoreapp3.1\Task.Encapsulation.pdb
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\obj\Debug\netcoreapp3.1\Task.Encapsulation.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\obj\Debug\netcoreapp3.1\Task.Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\obj\Debug\netcoreapp3.1\Task.Encapsulation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\obj\Debug\netcoreapp3.1\Task.Encapsulation.AssemblyInfo.cs
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\obj\Debug\netcoreapp3.1\Task.Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\obj\Debug\netcoreapp3.1\Task.Encapsulation.dll
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\obj\Debug\netcoreapp3.1\Task.Encapsulation.pdb
+C:\Users\HP\Desktop\Encapsulation\Task.Encapsulation\Task.Encapsulation\obj\Debug\netcoreapp3.1\Task.Encapsulation.genruntimeconfig.cache
